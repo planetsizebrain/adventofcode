@@ -1,0 +1,1 @@
+My hacky, crappy and hopefully sometimes brilliant Advent Of Code 2016 solutions.
